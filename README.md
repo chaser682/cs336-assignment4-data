@@ -1,10 +1,28 @@
-# CS336 Spring 2025 Assignment 4: Data
+# CS336 Spring 2025 Assignment 4: Data (Finished)
 
 For a full description of the assignment, see the assignment handout at
 [cs336_spring2025_assignment4_data.pdf](./cs336_spring2025_assignment4_data.pdf)
 
-If you see any issues with the assignment handout or code, please feel free to
-raise a GitHub issue or open a pull request with a fix.
+## Personal implementation
+**src**
+```bash
+tests/xxx.py
+```
+
+**Environmental installation**
+```bash
+pip install uv
+```
+
+**Test all modules**
+```bash
+uv run pytest
+```
+
+**Test specified module**
+```bash
+uv run pytest tests/xxx.py
+```
 
 ## Setup
 
