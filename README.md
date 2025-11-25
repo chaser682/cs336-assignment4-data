@@ -23,6 +23,7 @@ uv run pytest
 ```bash
 uv run pytest tests/xxx.py
 ```
+![Alt text](image.png)
 
 ## Setup
 
